@@ -1,0 +1,6 @@
+!pip install pandas== 2.2.3
+!pip install numpy==1.23.1
+!pip install matplotlib==3.9.4
+!pip install pillow==11.1.0
+!pip install tensorflow==2.18.0
+!pip install GPyOpt==1.2.6
